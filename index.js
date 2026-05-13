@@ -1,4 +1,3 @@
-console.log("hello world!");
 const joke1 = document.getElementById("joke1");
 const joke2 = document.getElementById("joke2");
 const joke3 = document.getElementById("joke3");
@@ -37,3 +36,4 @@ joke2.addEventListener("click", () => {
 joke3.addEventListener("click", () => {
     fetchJokeCallback(joke3Paragraph);
 });
+
