@@ -12,7 +12,7 @@ A fun web application that fetches random Chuck Norris jokes from the [Chuck Nor
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) *([(https://arcaneoracle.github.io/Chuck-Norris-Joke-Generator-Using-API/)])*
+[View Live Demo] *(https://arcaneoracle.github.io/Chuck-Norris-Joke-Generator-Using-API/)*
 
 ## 🛠️ Technologies Used
 
